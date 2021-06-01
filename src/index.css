@@ -8,4 +8,5 @@
   text-align: center;
   right: -23px;
   top: 18px;
+  z-index: 9999;
 }
