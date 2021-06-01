@@ -35,6 +35,7 @@
   },
   "name": "debug-flag",
   "author": "Loc Vo",
+  "description": "Debug flag component for React",
   "module": "dist/debug-flag.esm.js",
   "size-limit": [
     {
