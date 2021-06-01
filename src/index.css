@@ -1,0 +1,11 @@
+.root {
+  background: red;
+  position: fixed;
+  color: white;
+  transform: rotate(45deg);
+  font-family: system-ui, serif;
+  width: 100px;
+  text-align: center;
+  right: -23px;
+  top: 18px;
+}
