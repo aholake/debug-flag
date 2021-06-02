@@ -16,5 +16,7 @@ import 'debug-flag/dist/debug-flag.cjs.development.css';
 ReactDOM.render(<LoadingBar />, document.getElementById('root'));
 ```
 ## Screenshot
-![screenshot-1](https://github.com/aholake/debug-flag/master/screenshot.png "Logo Title Text 1")
+![screenshot-1](https://raw.githubusercontent.com/aholake/debug-flag/master/screenshot.png "screenshot 1")
+
+![screenshot-1](https://raw.githubusercontent.com/aholake/debug-flag/master/screenshot2.png "screenshot 2")
 
