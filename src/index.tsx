@@ -1,5 +1,4 @@
 import * as React from 'react';
-import './index.css'
 
 interface PropsType {
   open: boolean;
@@ -7,9 +6,22 @@ interface PropsType {
 }
 export const DebugFlag = ({open, label}: PropsType) => {
   if (!open) {
-    return null;
+    return null
   }
-  return <div className="root">{label}</div>;
+  return (
+    <div style={{
+      background: "red",
+      position: "fixed",
+      color: "white",
+      transform: "rotate(45deg)",
+      fontFamily: "system-ui, serif",
+      width: "100px",
+      textAlign: "center",
+      right: "-23px",
+      top: "18px",
+      zIndex: 9999
+    }}>{label}</div>
+  )
 };
 
 DebugFlag.defaultProps = {
