@@ -11,11 +11,11 @@ or
 
 `yarn add debug-flag`
 ## Usage
+YOU JUST INSERT `<DebugFlag />` INTO YOUR JSX OR TSX FILE AND ENJOY.
 ```
 import { DebugFlag } from 'debug-flag';
-import 'debug-flag/dist/debug-flag.cjs.development.css';
 
-ReactDOM.render(<LoadingBar />, document.getElementById('root'));
+ReactDOM.render(<DebugFlag />, document.getElementById('root'));
 ```
 ## Screenshot
 ![screenshot-1](https://raw.githubusercontent.com/aholake/debug-flag/master/screenshot.png "screenshot 1")
