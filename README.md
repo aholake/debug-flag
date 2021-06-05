@@ -1,8 +1,7 @@
-
 #  DEBUG FLAG COMPONENT FOR REACT
 **INSPIRED BY FLUTTER MOBILE APPLICATIONS**
 
-This component helps to highlight that you are on development mode by display a debug label in top-right of your screen.
+This component helps to highlight that you are in development mode by display a debug label in the top-right of your screen.
 
 ## Installation
 `npm install debug-flag`
@@ -19,4 +18,3 @@ ReactDOM.render(<DebugFlag />, document.getElementById('root'));
 ```
 ## Screenshot
 ![screenshot-1](https://raw.githubusercontent.com/aholake/debug-flag/master/screenshot.png "screenshot 1")
-
