@@ -1,5 +1,5 @@
 #  DEBUG FLAG COMPONENT FOR REACT
-**INSPIRED BY FLUTTER MOBILE APPLICATIONS**
+**INSPIRED BY FLUTTER MOBILE APPLICATIONS**
 
 This component helps to highlight that you are in development mode by display a debug label in the top-right of your screen.
 
